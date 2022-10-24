@@ -19,7 +19,7 @@ Describe the project.
 ## 🔢 Getting started
 1. Clone the repository
    ```sh
-   git clone https://github.com/MhouneyLH/keystrokemanager.git
+   git clone https://github.com/MhouneyLH/{repo_name}.git
    ```
 2. Install the npm packages
    ```sh
